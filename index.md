@@ -1,7 +1,7 @@
 
 A collaborative project for Hist 1067: A History of Economic Thought. Source: BA. “A Letter to Sir John Eyles, Bart. Sub-governor of the South Sea Company,” London, 1722.s
 
-<img src="image3.png" align="center" alt="alt text" width="600" height="400">
+<img src="image3.jpg" align="center" alt="alt text" width="600" height="400">
 
 ### Introduction 
 
@@ -36,6 +36,9 @@ From this analysis, much is revealed about the greater context in which the sour
 ### Post Scriptum 
 
 Ironically, the 2008 financial crisis repeated many of themes evident in the South Sea crisis. Before 2008, only a few warned of deregulated derivative markets and cheap access to credit. Just as the British public in 1720 largely failed to see how prices in the South Sea company could fall, bankers and homeowners in 2007 failed to recognize the tenuous nature of mortgage backed securities. In both cases an ingrained belief and confidence that rising prices would save the day was mistaken. Pride goeth before destruction.
+
+
+<img src="bubblecards.png" align="center" alt="alt text" width="400" height="600">
 
 
 ### Bibliography
