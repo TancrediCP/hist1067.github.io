@@ -11,9 +11,7 @@ By 1720 in the aftermath of the War of Spanish Succession, Great Britain was an 
 ![SSC](image2.png)
 ![](image2.png | width = 10x)
 
+<img src="image2.png" alt="alt text" width="20" height="40">
+
 Hello 
 
-<img src="image2.jpg" alt="drawing" width="100"/>
-a
-<img src="image2.jpg" alt="drawing" width="200"/>\
-b
