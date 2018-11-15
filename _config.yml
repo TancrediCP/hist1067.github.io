@@ -1,6 +1,9 @@
 theme: jekyll-theme-merlot
 
+title: South Sea Company
+
 name: Hello
+show_downloads: False
 
 description: Hey
 
