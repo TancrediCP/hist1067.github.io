@@ -27,8 +27,14 @@ Although perhaps truly faithful to his duty, Sir John Eyles did not shy away fro
 
 
 
-### 
+### Concluding Remarks
 
-### Conclusion 
+From this analysis, much is revealed about the greater context in which the source is situated. Sir John Eyles’ struggles indicate that he found himself in a financial system where even the those attempting to conduct sound business were forced to utilize deception to get their way. As mentioned previously, A.B.’s tone in describing the sub-governor’s artful means is not one of scorn, suggesting that these practices were the norm rather than the exception. At this point, a larger research scope would be required to identify precisely what made navigating this system so difficult to lead even the most noble of men to engage in deceit. We present two potential factors. First of all, the proprietors of many Bubbles such as the South Sea Company came from a fairly diverse set of intellectual, social and economic backgrounds. The frenzy had affected a significant portion of society. Hence, part of the difficulty with leading these companies can be attributed to the wide range of opinions and clashing interests that arose from the heterogeneous mix of investors. Second, while directors such as Sir Eyles had their supporters, they were also enveloped by an aura of mistrust in the aftermath of a crash. The South Sea proprietors were at times described as “mutinous” and unwilling to comply with any of the sub-governor’s demands. It appears that the irrationality which had burst the bubble had transmuted into bitterness and a fervent absolution from the misfortunes of the collapse. According to MacKay, “nobody blamed the credulity and avarice of the people… these things were never mentioned. The people were a simple, honest, hard-working people, ruined by a gang of robbers.” 
+
+
+### Post Scriptum 
+
+Ironically, the 2008 financial crisis repeated many of themes evident in the South Sea crisis. Only a few warned of deregulated derivative markets and cheap access to credit. Just as the British public in 1720 largely failed to see how prices in the South Sea company could fall, bankers and homeowners in 2007 failed to recognize the tenuous nature of mortgage backed securities. In both cases an ingrained belief and confidence that rising prices would save the day was mistaken. Pride goeth before destruction.
+
 
 ### Bibliography
