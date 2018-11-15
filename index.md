@@ -10,7 +10,7 @@ By 1720 in the aftermath of the War of Spanish Succession, Great Britain was an 
 
 
 
-<img src="image2.png" alt="alt text" width="400" height="600">
+<img src="image2.png" align="center" alt="alt text" width="400" height="600">
 
 
 
