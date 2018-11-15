@@ -1,7 +1,7 @@
 
 A collaborative project for Hist 1067: A History of Economic Thought. Source: BA. “A Letter to Sir John Eyles, Bart. Sub-governor of the South Sea Company,” London, 1722.s
 
-<img src="image3.png" align="center" alt="alt text" width="600" height="400">
+<img src="image3.png" align="center" alt="alt text" width="500" height="300">
 
 ### Introduction
 
