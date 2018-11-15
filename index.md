@@ -1,40 +1,9 @@
-## Welcome to GitHub Pages
+## South Sea Company
 
-You can use the [editor on GitHub](https://github.com/TancrediCP/hist1067.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TancrediCP/hist1067.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A collaborative project for Hist 1067: A history of Economic Thought. By Juan Pedro Crestanello, Maria Jacinta Crestanello, Emanuele Gualandri, & Tancredi Castellano Pucci. Looking at the following  Source: BA. “A Letter to Sir John Eyles, Bart. Sub-governor of the South Sea Company,” London, 1722.
 
 
-hello
+
+### Introduction 
+
+By 1720 in the aftermath of the War of Spanish Succession, Great Britain was an empire on the rise thanks to its successful war-time endeavors. The state’s military success was arguably the result of its uncanny ability to finance wars. As Britain basked in financial and military success, the underlying stability of its financial system loomed large. Government officials searched for financial innovations to relieve the burden of Britain’s debt. They sought to transfer the government’s debt to private institutions like the Bank of England and the South Sea Company who put forth competitive offers to finance the country’s debt. Implicit in the stock issue was an ingrained perception that rising prices would lift the fortunes of both the company and the national treasury. Only a few officials in the Bank of England warned of the unsustainable speculation, hinting at the eventual crash. In the aftermath of the collapse of the South Sea stock, men of considerable public credit and stature, like Sir John Eyles of the East India Company, were brought to restore equilibrium. To combat a dire financial situation, a well-intentioned man like Sir John Eyles found himself engaging in deceitful practices and questionable means. As exemplified by “A Letter to Sir John Eyles,” the complex if incoherent response to the crash underscored how cunning tactics and a lack of transparency—traits that led to the crisis—were central to achieving financial stability in 18th century financial systems. 
