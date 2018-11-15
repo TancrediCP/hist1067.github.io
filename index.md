@@ -11,3 +11,8 @@ By 1720 in the aftermath of the War of Spanish Succession, Great Britain was an 
 ![SSC](image1.png)
 
 Hello 
+
+
+<img src="image2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
