@@ -54,3 +54,5 @@ Dickson, P.G.M..The Financial Revolution in England: A Study in the Development
 of Public Credit. New York: Macmillan, 1967.
 
 Mackay, Charles. Memoirs of Extraordinary Popular Delusions and the Madness of the Crowds. London: Robson, Levey & Franklyn, 1852.
+
+*All images from Mackay see above. 
