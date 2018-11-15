@@ -1,5 +1,5 @@
 
-A collaborative project for Hist 1067: A history of Economic Thought. Source: BA. “A Letter to Sir John Eyles, Bart. Sub-governor of the South Sea Company,” London, 1722.
+A collaborative project for Hist 1067: A history of Economic Thought. Source: BA. “A Letter to Sir John Eyles, Bart. Sub-governor of the South Sea Company,” London, 1722.s
 
 ### Introduction 
 
