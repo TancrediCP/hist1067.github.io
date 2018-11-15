@@ -1,1 +1,19 @@
 theme: jekyll-theme-merlot
+
+name: Hello
+
+description: Hey
+
+footer-links: 
+  dribble:
+  email:
+  flickr:
+  github:
+  instagram:
+  linkedin:
+  pinterest:
+  rss:
+  twitter:
+  stackoverflow:
+  youtube:
+  googleplus:
